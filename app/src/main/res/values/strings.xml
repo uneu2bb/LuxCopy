@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LuxCopy</string>
+    <string name="accessibility_service_description">LuxCopy needs Accessibility permission to detect and copy text that appears on your screen, even from apps that normally block selection. All processing happens on your device. No data is collected or sent anywhere.</string>
+    <string name="accessibility_service_summary">Allow LuxCopy to read on-screen text for copying</string>
+</resources>
